@@ -2,10 +2,10 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Thainá Claro, tenho 18 anos e sou natural de São Paulo.Estou cusando o 3 ano do Ensino medio, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube.
+Me chamo Thainá Claro, tenho 18 anos e sou natural de São Paulo.Estou cusando o 3 ano do Ensino medio,e estudo programação e informática de forma independente, sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube.
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
+    <a href="">
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
@@ -13,20 +13,14 @@ Me chamo Thainá Claro, tenho 18 anos e sou natural de São Paulo.Estou cusando 
         />
     </a>
     </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/Thainaclaro?tab=repositories">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+    
 </p>
 
 ---
