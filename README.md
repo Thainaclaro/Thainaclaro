@@ -9,7 +9,7 @@ Me chamo Thainá Claro, tenho 18 anos e sou natural de São Paulo.Estou cusando 
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/@thainaclaro-dev5?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
+            src="https://custom-icon-badges.demolab.com/youtube/channel/views/?si=F1L6nGoSWdD52AR6=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
     </a>
     </a> 
