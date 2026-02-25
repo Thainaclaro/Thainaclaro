@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Junior`**
 
-Me chamo Thainá Claro, tenho 18 anos e sou de São Paulo. Atualmente estou cursando o ultimo ano do ensino medio, e estudo programação e informatica de forma independente.Sou apaixonada por tecnologia e mostro os meus projetos canal no YouTube "[Thainá Claro](https://www.youtube.com/@thainaclaro-dev5)".
+Me chamo Thainá Claro, tenho 18 anos e sou de São Paulo. Atualmente estou cursando Tecnico em Desenvolvimento de Sistemas na ETEC Jucelino Kubitschek.Sou apaixonada por tecnologia e mostro os meus projetos canal no YouTube "[Thainá Claro](https://www.youtube.com/@thainaclaro-dev5)".
 
 <p align="left">
     <a href="https://www.youtube.com/@thainaclaro-dev5?sub_confirmation=1">
@@ -12,27 +12,6 @@ Me chamo Thainá Claro, tenho 18 anos e sou de São Paulo. Atualmente estou curs
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
-    <a href="https://www.youtube.com/@thainaclaro-dev5">
-        <img 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
-    <a href="https://github.com/Thainaclaro?tab=repositories">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Thainaclaro?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
 
 ---
 
