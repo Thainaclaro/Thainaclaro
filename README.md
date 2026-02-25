@@ -19,11 +19,11 @@ Me chamo Thainá Claro, tenho 18 anos e sou de São Paulo. Atualmente estou curs
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="JAVA"
+    title="JAVA" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    src="https://camo.githubusercontent.com/59cf14fc155e669e010380a054797acdecf9d4d8e42c5f26210fa7782465926e/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f656e2f7468756d622f332f33302f4a6176615f70726f6772616d6d696e675f6c616e67756167655f6c6f676f2e7376672f33303070782d4a6176615f70726f6772616d6d696e675f6c616e67756167655f6c6f676f2e7376672e706e67" 
 />
 <img 
     align="left" 
