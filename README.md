@@ -29,9 +29,9 @@ Me chamo Thainá Claro, tenho 18 anos e sou de São Paulo. Atualmente estou curs
     align="left" 
     alt="SpringBoot" 
     title="SpringBoot"
-    width="60px" 
+    width="30px" 
     style="padding-right: 10px;" 
-    src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png" 
+    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvquEfTORG_Oaa5NI2Nr9XSH8Z2mRp1YTC_Zi6qz-gAQ&s=10" 
 />
 <img 
     align="left" 
