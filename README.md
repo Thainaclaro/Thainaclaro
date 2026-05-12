@@ -1,54 +1,138 @@
- #👩🏻‍💻 Thainá Claro
+ # 👩🏻‍💻 Thainá Claro
 
-**`Desenvolvedora Junior`**
+<div align="center">
 
-Me chamo Thainá Claro, tenho 18 anos e sou de São Paulo. Atualmente estou cursando Tecnico em Desenvolvimento de Sistemas na ETEC Jucelino Kubitschek.Sou apaixonada por tecnologia e mostro os meus projetos canal no YouTube "[Thainá Claro](https://www.youtube.com/@thainaclaro-dev5)".
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=7F3FBF&center=true&vCenter=true&width=600&lines=Desenvolvedora+Backend+Java;Spring+Boot+%7C+APIs+REST;Estudante+de+Desenvolvimento+de+Sistemas" />
 
-<p align="left">
-    <a href="https://www.youtube.com/@thainaclaro-dev5?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
+</div>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🚀 Sobre mim
+
+🎓 Estudante de **Desenvolvimento de Sistemas** na ETEC  
+💻 Focada em desenvolvimento **Backend Java**  
+🌱 Aprendendo diariamente sobre APIs REST, banco de dados e arquitetura de sistemas  
+📍 São Paulo - Brasil  
+
+Sou apaixonada por tecnologia e gosto de transformar ideias em projetos reais.  
+Atualmente estou desenvolvendo aplicações para fortalecer minhas habilidades e construir meu portfólio profissional.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+<div align="center">
 
 <img 
-    align="left" 
-    alt="JAVA"
-    title="JAVA" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://camo.githubusercontent.com/59cf14fc155e669e010380a054797acdecf9d4d8e42c5f26210fa7782465926e/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f656e2f7468756d622f332f33302f4a6176615f70726f6772616d6d696e675f6c616e67756167655f6c6f676f2e7376672f33303070782d4a6176615f70726f6772616d6d696e675f6c616e67756167655f6c6f676f2e7376672e706e67" 
+    alt="Java" 
+    title="Java"
+    width="50px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" 
 />
+
 <img 
-    align="left" 
-    alt="SpringBoot" 
-    title="SpringBoot"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvquEfTORG_Oaa5NI2Nr9XSH8Z2mRp1YTC_Zi6qz-gAQ&s=10" 
+    alt="Spring Boot" 
+    title="Spring Boot"
+    width="50px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" 
 />
+
 <img 
-    align="left" 
     alt="Git" 
     title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    width="50px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
 />
 
-<br/>
-<br/>
+<img 
+    alt="GitHub" 
+    title="GitHub"
+    width="50px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
+/>
+
+<img 
+    alt="MySQL" 
+    title="MySQL"
+    width="50px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
+/>
+
+<img 
+    alt="Python" 
+    title="Python"
+    width="50px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
+/>
+
+<img 
+    alt="HTML" 
+    title="HTML"
+    width="50px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
+/>
+
+<img 
+    alt="CSS" 
+    title="CSS"
+    width="50px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
+/>
+
+</div>
+
+---
+
+## 📊 Estatísticas GitHub
+
+<div align="center">
+
+<img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=Thainaclaro&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+/>
+
+<img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thainaclaro&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+/>
+
+</div>
+
+---
+
+## ✨ Objetivos
+
+- 📚 Evoluir como Desenvolvedora Backend
+- 🚀 Conseguir uma oportunidade de estágio em tecnologia
+- 💡 Criar projetos com Java e Spring Boot
+- 🤖 Explorar automações e inteligência artificial
+
+---
+
+## 📫 Contato
+
+<div align="center">
+
+<a href="mailto:thainiclaro.dev@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Thainaclaro">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+✨ “Transformando café e código em projetos reais.” ☕
+
+</div>
